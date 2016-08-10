@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Maurício Pilla"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Maurício Pilla's homepage"
+description              : ""
+url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -61,11 +61,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Maurício"
+  avatar           : "pilla.jpg"
+  bio              : "Professor at the Computer Science courses, Federal University of Pelotas, Brazil. "
+  location         : "Pelotas, Brazil"
+  email            : "pilla@inf.ufpel.edu.br"
   uri              :
   bitbucket        :
   codepen          :
@@ -73,7 +73,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "pilla"
   google_plus      :
   keybase          :
   instagram        :
@@ -210,3 +210,15 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: archive
+      read_time: true
+      comments: true
+      share: true
+      related: true
