@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Maurício Pilla"
+title                    : "Maurício Lima Pilla"
 title_separator          : "-"
 name                     : "Maurício Pilla's homepage"
 description              : ""
-url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://lups.inf.ufpel.edu.br/~pilla # http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -61,7 +61,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maurício"
+  name             : ""
   avatar           : "pilla.jpg"
   bio              : "Professor at the Computer Science courses, Federal University of Pelotas, Brazil. "
   location         : "Pelotas, Brazil"
@@ -78,7 +78,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "maurício-pilla-497a62"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -89,7 +89,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-
+  lattes           : http://lattes.cnpq.br/5401660213198750
 
 # Reading Files
 include:
