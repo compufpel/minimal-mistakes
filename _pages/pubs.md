@@ -12,7 +12,11 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 
 ## 2016
 
-* A. B. Avila, R. H. S. Reiser, A. C. Yamin,  M. L. Pilla . Scalable quantum simulation by reductions and decompositions through the Id-operator. In: ACM/SIGAPP Symposium On Applied Computing (SAC), 2016, Pisa, p. 1255-1257. [doi 10.1145/2851613.2851936](http://dx.doi.org/10.1145/2851613.2851936)
+* B. Moura, Y. Soares, L. Sampaio, R. H. S. Reiser, A. C. Yamin, M. L. Pilla. fGrid: Uncertainty Variables Modeling for Computational Grids Using Fuzzy Logic. In: FUZZ-IEEE, 2016, Vancouver.
+
+* A. B. Avila, R. H. S. Reiser, A. C. Yamin,  M. L. Pilla. Optimizing D-GM Quantum Computing by Exploring Parallel and Distributed Quantum Simulations Under GPUs Arquitectures. In: IEEE CEC, 2016, Vancouver.
+
+* A. B. Avila, R. H. S. Reiser, A. C. Yamin,  M. L. Pilla. Scalable quantum simulation by reductions and decompositions through the Id-operator. In: ACM/SIGAPP Symposium On Applied Computing (SAC), 2016, Pisa, p. 1255-1257. [doi 10.1145/2851613.2851936](http://dx.doi.org/10.1145/2851613.2851936)
 
 * J. C. Ramos, A. R. Du Bois, M. L. Pilla. An Embedded Domain Specific Language for Distributed Memory Transactions in Java. In: ACM/SIGAPP Symposium On Applied Computing (SAC), 2016, Pisa, p. 1980-1985. [doi 10.1145/2851613.2851754](http://dx.doi.org/10.1145/2851613.2851754)
 

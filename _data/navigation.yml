@@ -1,17 +1,16 @@
 # main links links
 main:
-  - title: "Home"
-    url: main.html 
-
-  - title: "Bio"
-    url: bio/
+  - title: "About me"
+    url: /
 
   - title: "Projects"
-    url: projects/
+    url: /projects/
 
   - title: "Publications"
-    url: pubs/
+    url: /pubs/
 
   - title: "Students"
-    url: students/
+    url: /students/
 
+  - title: "Random"
+    url: /random/
