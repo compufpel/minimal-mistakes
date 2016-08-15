@@ -12,6 +12,10 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 
 ## 2016
 
+* R. C. Moura, G. O. Torres, M. L. Pilla, L. L. Pilla, A. T. Costa, F. M. G. França. Value Reuse Potential in ARM Architectures. (to be presented at [SBAC-PAD 2016](http://www2.sbc.org.br/sbac/2016/)).
+
+* A. R. Du Bois, R. M. Duarte, M. L. Pilla, G. G. H. Cavalheiro, R. H. S. Reiser. Concurrent hash tables for Haskell. (to be presented at [SBLP 2016](http://cbsoft.org/sblp2016)).  
+
 * B. Moura, Y. Soares, L. Sampaio, R. H. S. Reiser, A. C. Yamin, M. L. Pilla. fGrid: Uncertainty Variables Modeling for Computational Grids Using Fuzzy Logic. In: FUZZ-IEEE, 2016, Vancouver.
 
 * A. B. Avila, R. H. S. Reiser, A. C. Yamin,  M. L. Pilla. Optimizing D-GM Quantum Computing by Exploring Parallel and Distributed Quantum Simulations Under GPUs Arquitectures. In: IEEE CEC, 2016, Vancouver.
