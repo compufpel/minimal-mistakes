@@ -12,6 +12,8 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 
 ## 2016
 
+* A. B. Avila, R. H. S. Reiser, M. L. Pilla. Quantum computing simulation through reduction and decomposition optimizations with a case study of Shor's algorithm. Accepted for publication in the journal Concurrency and Computation: Practice and Experience.
+
 * R. C. Moura, G. O. Torres, M. L. Pilla, L. L. Pilla, A. T. Costa, F. M. G. França. Value Reuse Potential in ARM Architectures. (to be presented at [SBAC-PAD 2016](http://www2.sbc.org.br/sbac/2016/)).
 
 * A. R. Du Bois, R. M. Duarte, M. L. Pilla, G. G. H. Cavalheiro, R. H. S. Reiser. Concurrent hash tables for Haskell. (to be presented at [SBLP 2016](http://cbsoft.org/sblp2016)).  
