@@ -12,6 +12,8 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 
 ## 2016
 
+* B. Moura, Y. Soares, L. Sampaio, R. H. S. Reiser, A. C. Yain, M. L. Pilla. Fuzzy System Modeling for Task Scheduling in Computational Grids. In: FLINS, 2016. 
+
 * A. B. Avila, R. H. S. Reiser, M. L. Pilla. Quantum computing simulation through reduction and decomposition optimizations with a case study of Shor's algorithm. Accepted for publication in the journal Concurrency and Computation: Practice and Experience.
 
 * R. C. Moura, G. O. Torres, M. L. Pilla, L. L. Pilla, A. T. Costa, F. M. G. França. Value Reuse Potential in ARM Architectures. (to be presented at [SBAC-PAD 2016](http://www2.sbc.org.br/sbac/2016/)).
