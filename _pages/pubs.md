@@ -12,7 +12,7 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 
 ## 2016
 
-* B. Moura, Y. Soares, L. Sampaio, R. H. S. Reiser, A. C. Yasmin, M. L. Pilla. Fuzzy System Modeling for Task Scheduling in Computational Grids. In: FLINS, 2016.
+* B. Moura, Y. Soares, L. Sampaio, R. H. S. Reiser, A. C. Yasmin, M. L. Pilla. Fuzzy System Modeling for Task Scheduling in Computational Grids. In: FLINS, 2016. [Research Gate](https://www.researchgate.net/publication/305781633_FUZZY_SYSTEM_MODELING_FOR_TASK_SCHEDULING_IN_COMPUTATIONAL_GRIDS)
 
 * A. B. Avila, R. H. S. Reiser, M. L. Pilla. Quantum computing simulation through reduction and decomposition optimizations with a case study of Shor's algorithm. Accepted for publication in the journal Concurrency and Computation: Practice and Experience.
 
@@ -20,9 +20,9 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 
 * A. R. Du Bois, R. M. Duarte, M. L. Pilla, G. G. H. Cavalheiro, R. H. S. Reiser. Concurrent hash tables for Haskell. (to be presented at [SBLP 2016](http://cbsoft.org/sblp2016)), [doi 10.1007/978-3-319-45279-1_8](http://dx.doi.org/10.1007/978-3-319-45279-1_8), [Research Gate](https://www.researchgate.net/publication/308277708_Concurrent_Hash_Tables_for_Haskell)
 
-* B. Moura, Y. Soares, L. Sampaio, R. H. S. Reiser, A. C. Yamin, M. L. Pilla. fGrid: Uncertainty Variables Modeling for Computational Grids Using Fuzzy Logic. In: FUZZ-IEEE, 2016, Vancouver.
+* B. Moura, Y. Soares, L. Sampaio, R. H. S. Reiser, A. C. Yamin, M. L. Pilla. fGrid: Uncertainty Variables Modeling for Computational Grids Using Fuzzy Logic. In: FUZZ-IEEE, 2016, Vancouver. [Research Gate](https://www.researchgate.net/publication/308761914_fGrid_Uncertainty_Variables_Modeling_for_Computational_Grids_using_Fuzzy_Logic?ev=prf_pub)
 
-* A. B. Avila, R. H. S. Reiser, A. C. Yamin,  M. L. Pilla. Optimizing D-GM Quantum Computing by Exploring Parallel and Distributed Quantum Simulations Under GPUs Arquitectures. In: IEEE CEC, 2016, Vancouver.
+* A. B. Avila, R. H. S. Reiser, A. C. Yamin,  M. L. Pilla. Optimizing D-GM Quantum Computing by Exploring Parallel and Distributed Quantum Simulations Under GPUs Arquitectures. In: IEEE CEC, 2016, Vancouver. [Research Gate](https://www.researchgate.net/publication/308761725_Optimizing_D-GM_quantum_computing_by_exploring_parallel_and_distributed_quantum_simulations_under_GPUs_arquitecture?ev=prf_pub)
 
 * A. B. Avila, R. H. S. Reiser, A. C. Yamin,  M. L. Pilla. Scalable quantum simulation by reductions and decompositions through the Id-operator. In: ACM/SIGAPP Symposium On Applied Computing (SAC), 2016, Pisa, p. 1255-1257. [doi 10.1145/2851613.2851936](http://dx.doi.org/10.1145/2851613.2851936), [Research Gate](https://www.researchgate.net/publication/303382069_Scalable_quantum_simulation_by_reductions_and_decompositions_through_the_Id-operator)
 
