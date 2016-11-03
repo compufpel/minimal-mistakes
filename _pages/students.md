@@ -12,7 +12,6 @@ sidebar:
 * Rodrigo Costa Moura (Ph.D.)
 * Anderson Braga de Ávila (Ph.D., coadvisor)
 * Jerônimo (Ph.D., coadvisor)
-* Vilnei Marin de Freitas das Neves (masters)
 * Vítor Alano de Ataídes (masters)
 * Giovane de Oliveira Torres (masters)
 * João Vítor Valente Tarouco de Oliveira (undergrad)
@@ -22,6 +21,8 @@ sidebar:
 
 ## Past
 
+* Vilnei Marin de Freitas das Neves (masters)
+* Ariel Furtado (undergrad)
 * Felipe Leivas Teixeira (masters, 2015)
 * Rodolfo Migon Favaretto (masters - coadvisor, 2014)
 * Timóteo Matthies Ricco (masters, 2013)
