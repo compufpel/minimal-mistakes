@@ -14,7 +14,7 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 
 * B. Moura, Y. Soares, L. Sampaio, R. H. S. Reiser, A. C. Yasmin, M. L. Pilla. Fuzzy System Modeling for Task Scheduling in Computational Grids. In: FLINS, 2016. [Research Gate](https://www.researchgate.net/publication/305781633_FUZZY_SYSTEM_MODELING_FOR_TASK_SCHEDULING_IN_COMPUTATIONAL_GRIDS)
 
-* A. B. Avila, R. H. S. Reiser, M. L. Pilla. Quantum computing simulation through reduction and decomposition optimizations with a case study of Shor's algorithm. Accepted for publication in the journal Concurrency and Computation: Practice and Experience.
+* A. B. Avila, R. H. S. Reiser, M. L. Pilla. Quantum computing simulation through reduction and decomposition optimizations with a case study of Shor's algorithm. In: Concurrency and Computation: Practice and Experience. [doi 10.1002/cpe.3961](http://onlinelibrary.wiley.com/doi/10.1002/cpe.3961/abstract), [Research Gate](https://www.researchgate.net%2Fpublication%2F310436474_Quantum_computing_simulation_through_reduction_and_decomposition_optimizations_with_a_case_study_of_Shor's_algorithm)
 
 * R. C. Moura, G. O. Torres, M. L. Pilla, L. L. Pilla, A. T. Costa, F. M. G. França. Value Reuse Potential in ARM Architectures. In: [SBAC-PAD](http://www2.sbc.org.br/sbac/2016/), 2016, Los Angeles. [Research Gate](https://www.researchgate.net/publication/309645838_Value_Reuse_Potential_in_ARM_Architectures)
 
