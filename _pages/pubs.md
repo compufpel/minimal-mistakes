@@ -10,6 +10,14 @@ sidebar:
 
 My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauricio_Pilla).
 
+## 2017
+
+* A. B. Avila, R. H. S. Reiser, A. C. Yamin, and M. L. Pilla. Efficient In-Situ Quantum Computing Simulation of Shor’s and Grover’s Algorithms. In: WAMCA, 2017.
+
+* F. L. Teixeira, M. L. Pilla, A. R. Du Bois, D. Mosse. Impact of Version Management for Transactional Memories on Phase-Change Memories. In: MPP, 2017.
+
+* M. L. Pilla. Teaching Computer Architectures Through Automatically Corrected Projects: Preliminary Results. In: WEAC, 2017. 
+
 ## 2016
 
 * B. Moura, Y. Soares, L. Sampaio, R. H. S. Reiser, A. C. Yasmin, M. L. Pilla. Fuzzy System Modeling for Task Scheduling in Computational Grids. In: FLINS, 2016. [Research Gate](https://www.researchgate.net/publication/305781633_FUZZY_SYSTEM_MODELING_FOR_TASK_SCHEDULING_IN_COMPUTATIONAL_GRIDS)
@@ -18,7 +26,7 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 
 * R. C. Moura, G. O. Torres, M. L. Pilla, L. L. Pilla, A. T. Costa, F. M. G. França. Value Reuse Potential in ARM Architectures. In: [SBAC-PAD](http://www2.sbc.org.br/sbac/2016/), 2016, Los Angeles. [Research Gate](https://www.researchgate.net/publication/309645838_Value_Reuse_Potential_in_ARM_Architectures)
 
-* A. R. Du Bois, R. M. Duarte, M. L. Pilla, G. G. H. Cavalheiro, R. H. S. Reiser. Concurrent hash tables for Haskell. (to be presented at [SBLP 2016](http://cbsoft.org/sblp2016)), [doi 10.1007/978-3-319-45279-1_8](http://dx.doi.org/10.1007/978-3-319-45279-1_8), [Research Gate](https://www.researchgate.net/publication/308277708_Concurrent_Hash_Tables_for_Haskell)
+* A. R. Du Bois, R. M. Duarte, M. L. Pilla, G. G. H. Cavalheiro, R. H. S. Reiser. Concurrent hash tables for Haskell. In: [SBLP 2016](http://cbsoft.org/sblp2016). [doi 10.1007/978-3-319-45279-1_8](http://dx.doi.org/10.1007/978-3-319-45279-1_8), [Research Gate](https://www.researchgate.net/publication/308277708_Concurrent_Hash_Tables_for_Haskell)
 
 * B. Moura, Y. Soares, L. Sampaio, R. H. S. Reiser, A. C. Yamin, M. L. Pilla. fGrid: Uncertainty Variables Modeling for Computational Grids Using Fuzzy Logic. In: FUZZ-IEEE, 2016, Vancouver. [Research Gate](https://www.researchgate.net/publication/308761914_fGrid_Uncertainty_Variables_Modeling_for_Computational_Grids_using_Fuzzy_Logic?ev=prf_pub)
 
