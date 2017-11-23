@@ -12,11 +12,13 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 
 ## 2017
 
-* A. B. Avila, R. H. S. Reiser, A. C. Yamin, and M. L. Pilla. Efficient In-Situ Quantum Computing Simulation of Shor’s and Grover’s Algorithms. In: WAMCA, 2017.
+* A. M. Coppieters, S. de Oliveira, F. M. G. França, M. L. Pilla, A. T. da Costa. Decanting the Contribution of Instruction Types and Loop Structures in the Reuse of Traces. In: [arXiv:1711.06672](https://arxiv.org/abs/1711.06672), 2017.
 
-* F. L. Teixeira, M. L. Pilla, A. R. Du Bois, D. Mosse. Impact of Version Management for Transactional Memories on Phase-Change Memories. In: MPP, 2017.
+* A. B. Avila, R. H. S. Reiser, A. C. Yamin, and M. L. Pilla. Efficient In-Situ Quantum Computing Simulation of Shor’s and Grover’s Algorithms. In: WAMCA, 2017. [Research Gate](https://www.researchgate.net/publication/321120596_Efficient_In-Situ_Quantum_Computing_Simulation_of_Shor%27s_and_Grover%27s_Algorithms)
 
-* M. L. Pilla. Teaching Computer Architectures Through Automatically Corrected Projects: Preliminary Results. In: WEAC, 2017. 
+* F. L. Teixeira, M. L. Pilla, A. R. Du Bois, D. Mosse. Impact of Version Management for Transactional Memories on Phase-Change Memories. In: MPP, 2017. [Research Gate](https://www.researchgate.net/publication/321115483_Impact_of_Version_Management_for_Transactional_Memories_on_Phase-Change_Memories)
+
+* M. L. Pilla. Teaching Computer Architectures Through Automatically Corrected Projects: Preliminary Results. In: WEAC, 2017. (To be published in IJCAE) [Research Gate](https://www.researchgate.net/publication/320455937_Teaching_Computer_Architectures_through_Automatically_Corrected_Projects_Preliminary_Results#share)
 
 ## 2016
 
