@@ -24,6 +24,9 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 
 * L. Costa, M. Matzneauer, R. Zanotelli, M. Nascimento, A. Finger, R. H. S. Reiser, A. C. Yamin, M. L. Pilla. Analysing Fuzzy Entropy via Generalized Atanassov's Intuitionistic Fuzzy Indexes. Mathware & Soft Computing, 2017. [Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=6238156)
 
+* A. B. Avila, R. H. S. Reiser, A. C. Yamin, M. L. Pilla. Parallel Simulation of Shor's and Grover's Algorithms in the Distributed Geometric Machine. In: ICNC-FSKD, 2017.
+
+* B. Moura, G. Schneider, A. C. Yamin, R. H. S. Reiser, M. L. Pilla.  Int-fGrid: a Type-2 Fuzzy Approach for Scheduling Tasks of Computational Grids. In: ICNC-FSKD, 2017.
 
 
 ## 2016
