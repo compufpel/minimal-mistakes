@@ -10,6 +10,8 @@ sidebar:
 
 My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauricio_Pilla).
 
+
+
 ## 2017
 
 * A. M. Coppieters, S. de Oliveira, F. M. G. França, M. L. Pilla, A. T. da Costa. Decanting the Contribution of Instruction Types and Loop Structures in the Reuse of Traces. In: [arXiv:1711.06672](https://arxiv.org/abs/1711.06672), 2017.
@@ -19,6 +21,10 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 * F. L. Teixeira, M. L. Pilla, A. R. Du Bois, D. Mosse. Impact of Version Management for Transactional Memories on Phase-Change Memories. In: MPP, 2017. [Research Gate](https://www.researchgate.net/publication/321115483_Impact_of_Version_Management_for_Transactional_Memories_on_Phase-Change_Memories)
 
 * M. L. Pilla. Teaching Computer Architectures Through Automatically Corrected Projects: Preliminary Results. In: WEAC, 2017. (To be published in IJCAE) [Research Gate](https://www.researchgate.net/publication/320455937_Teaching_Computer_Architectures_through_Automatically_Corrected_Projects_Preliminary_Results#share)
+
+* L. Costa, M. Matzneauer, R. Zanotelli, M. Nascimento, A. Finger, R. H. S. Reiser, A. C. Yamin, M. L. Pilla. Analysing Fuzzy Entropy via Generalized Atanassov's Intuitionistic Fuzzy Indexes. Mathware & Soft Computing, 2017. [Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=6238156)
+
+
 
 ## 2016
 

@@ -9,18 +9,21 @@ sidebar:
 ---
 ## Current
 
-* Rodrigo Costa Moura (Ph.D.)
+* Rodrigo Costa de Moura (Ph.D.)
+* Jerônimo da Cunha Ramos (Ph.D., coadvisor)
 * Anderson Braga de Ávila (Ph.D., coadvisor)
-* Jerônimo (Ph.D., coadvisor)
-* Vítor Alano de Ataídes (masters)
+* Vítor Alano de Ataídes (Ph.D.)
+* Lizandro de Souza Oliveira (Ph.D.)
+* Douglas Pasqualin (Ph.D., coadvisor)
 * Giovane de Oliveira Torres (masters)
-* João Vítor Valente Tarouco de Oliveira (undergrad)
-* Michael Costa (undergrad)
-* Guilherme Schneider (undergrad, coadvisor)
+* Guilherme Bayer Schneider (undergrad, coadvisor)
+* Guilherme de Souza da Silva (undergrad)
 
 
 ## Past
 
+* Michael Costa (undergrad)
+* João Vítor Valente Tarouco de Oliveira (undergrad)
 * Vilnei Marin de Freitas das Neves (masters)
 * Ariel Furtado (undergrad)
 * Felipe Leivas Teixeira (masters, 2015)
