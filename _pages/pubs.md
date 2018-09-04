@@ -12,7 +12,9 @@ My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauri
 
 ## 2018
 
-R. M. Duarte, A. R. Du Bois, M. L. Pilla, G. G. H. Cavalheiro, R. H. S. Reiser. Comparing the Performance of Concurrent hash tables implemented in Haskell. Science of Computer Programming, 2018. [doi:10.1016.j.scico.2018.06.004](https://doi.org/10.1016/j.scico.2018.06.004)
+* C. M. Betemps, M. L. Pilla, B. Zatt. Hybrid Memory Cube in Embedded Systems. In: SBCCI, 2018. [Research Gate](https://www.researchgate.net/publication/327426462_Hybrid_Memory_Cube_in_Embedded_Systems)
+
+* R. M. Duarte, A. R. Du Bois, M. L. Pilla, G. G. H. Cavalheiro, R. H. S. Reiser. Comparing the Performance of Concurrent hash tables implemented in Haskell. Science of Computer Programming, 2018. [doi:10.1016.j.scico.2018.06.004](https://doi.org/10.1016/j.scico.2018.06.004)
 
 
 ## 2017
