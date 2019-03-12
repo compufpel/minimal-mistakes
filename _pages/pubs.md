@@ -10,6 +10,10 @@ sidebar:
 
 My profile at Research Gate is [here](https://www.researchgate.net/profile/Mauricio_Pilla). 
 
+## 2019
+
+* A. Avila, R. H. S. Resier, M. L. Pilla, A. C. Yamin. **Improving in situ GPU simulation of quantum computing in the D-GM environment**. IJHPCA, 2019. [doi 10.1177%2F1094342018823251](https://doi.org/10.1177%2F1094342018823251)
+
 ## 2018
 
 * R. Machado, F. Rosa, R. Almeida, T. Primo, M. L. Pilla, A. M. Pernas, A. C. Yamin. **A Hybrid Architecture to Enrich Context Awareness through Data Correlation**. In: ACM SAC, 2018. [Research Gate](https://www.researchgate.net/publication/324569418_A_Hybrid_Architecture_to_Enrich_Context_Awareness_through_Data_Correlation)
